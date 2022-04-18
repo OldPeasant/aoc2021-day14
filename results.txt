@@ -1,0 +1,6 @@
+Min: P 624
+Max: C 3837
+3213
+[franz@fedora day14]$ python day14.2.py 
+3711743744429
+
